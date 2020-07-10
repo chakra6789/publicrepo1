@@ -1,2 +1,5 @@
+>>>>>>> localfeature
+=======
+this is my first file
 1 more line added
 >>>>>>> localfeature
