@@ -1,0 +1,42 @@
+[33mcommit d05062591f3468198457be2285e6c55710205407[m[33m ([m[1;36mHEAD -> [m[1;32mlocalfeature[m[33m)[m
+Author: Chakradhar <chakradharpashumarty@gmail.com>
+Date:   Fri Jul 10 14:00:14 2020 +0530
+
+    1 more change
+
+[33mcommit 88576dc09067df088d92a7928e42db524b13a375[m
+Merge: abe1175 a0a82ee
+Author: Chakradhar <chakradharpashumarty@gmail.com>
+Date:   Fri Jul 10 13:49:40 2020 +0530
+
+    Merge branch 'localfeature' into dev
+
+[33mcommit abe1175db278630a2e88f5f110a3f47e2524fa84[m
+Author: Chakradhar <chakradharpashumarty@gmail.com>
+Date:   Thu Jul 9 21:12:50 2020 +0530
+
+    new commit
+
+[33mcommit a0a82eef2770139e5a2ad79fa45888502f3807fe[m[33m ([m[1;31morigin/localfeature[m[33m)[m
+Author: Chakradhar <chakradharpashumarty@gmail.com>
+Date:   Thu Jul 9 20:27:49 2020 +0530
+
+    new files added
+
+[33mcommit 0729fc657f2071bdf5c674a271d3570e446f0c69[m[33m ([m[1;31morigin/dev[m[33m)[m
+Author: Chakradhar <chakradharpashumarty@gmail.com>
+Date:   Thu Jul 9 15:38:21 2020 +0530
+
+    commit from local branch
+
+[33mcommit 929b5b71ea1f323f4b8d33cbe50193f214816a44[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Chakradhar <chakradharpashumarty@gmail.com>
+Date:   Thu Jul 9 15:31:13 2020 +0530
+
+    new commit
+
+[33mcommit ac3f078be96a0af09d178c54db643d2a30623c83[m
+Author: chakra6789 <66880002+chakra6789@users.noreply.github.com>
+Date:   Thu Jul 9 15:24:21 2020 +0530
+
+    Initial commit
